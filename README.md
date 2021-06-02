@@ -1,7 +1,5 @@
 # Ước lượng mật độ NO2 hàng ngày tại Việt Name bằng mô hình K-means tích hợp Random Forest
 
-## Dependencies 
-
 ## Dữ liệu
 
 ## Mô hình
