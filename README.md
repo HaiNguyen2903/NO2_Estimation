@@ -10,7 +10,7 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
 
 ## Phân chia công việc
 
-<table width="350">
+<table width="400">
   <tr>
     <td> Thành viên </td>
     <td> Đặng Quốc Khánh </td>
@@ -23,35 +23,38 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
   <tr>
     <td></td>
     <td>
-       - Đọc hiểu bài báo <br>
-       - Tìm hiểu phương pháp giải quyết <br>
-       - Thu thập và ghép dữ liệu với bản đồ <br>
-       - Viết báo cáo và làm slide
-    </td> 
-    <td>
-       - Đọc hiểu bài báo <br>
-       - Tìm hiểu phương pháp giải quyết <br>
-       - Thu thập và ghép dữ liệu với bản đồ <br>
-       - Viết báo cáo và làm slide
-    </td> 
-    <td>
-       - Đọc hiểu bài báo <br>
-       - Tìm hiểu phương pháp giải quyết <br>
-       - Thu thập và ghép dữ liệu với bản đồ <br>
-       - Viết báo cáo và làm slide
-    </td> 
-    <td>
-       - Đọc hiểu bài báo <br>
-       - Tìm hiểu phương pháp giải quyết <br>
-       - Thu thập và ghép dữ liệu với bản đồ <br>
-       - Viết báo cáo và làm slide
-    </td> 
-    <td>
-       - Đọc hiểu bài báo <br>
-       - Tìm hiểu phương pháp giải quyết <br>
-       - Thu thập và ghép dữ liệu với bản đồ <br>
-       - Viết báo cáo và làm slide
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Thu thập và ghép dữ liệu với bản đồ <br>
+       Viết báo cáo và làm slide
     </td> 
     
+    <td>
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Thu thập và ghép dữ liệu với bản đồ <br>
+       Viết báo cáo và làm slide
+    </td> 
+    
+    <td>
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Thu thập và ghép dữ liệu với bản đồ <br>
+       Viết báo cáo và làm slide
+    </td>
+    
+    <td>
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Thu thập và ghép dữ liệu với bản đồ <br>
+       Viết báo cáo và làm slide
+    </td>
+    
+    <td>
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Thu thập và ghép dữ liệu với bản đồ <br>
+       Viết báo cáo và làm slide
+    </td> 
   </tr>
 </table>
