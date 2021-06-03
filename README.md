@@ -23,9 +23,8 @@ Mô hình Linear Regression qua thử nghiệm thể hiện khá kém, do còn �
 ## Kết quả 
 Các mô hình đã được thử nghiệm huấn luyện trên 2 bộ dữ liệu đã scale và chưa scale, kết hợp với việc dùng thêm trường dữ liệu **cluster** sau khi áp dụng K-means và không dùng trường dữ liệu **cluster**. Kết quả cho thấy mô hình thể hiện tốt nhất khi huấn luyện trên bộ dữ liệu có trường dữ liệu cluster và đã được scale. Mô hình huấn luyện trên bộ dữ liệu không có trường cluster và không được scale thể hiện không tốt bằng, tuy nhiên sự chênh lệch là không đáng kể. 
 
-Scale | Thêm trường dữ liệu cluster | RMSE | R2 | MAPE
-
-Có | Có | 9.57397 | 0.59624 | 29.31133
+Scale | Thêm trường dữ liệu cluster | RMSE    | R2      | MAPE
+Có    |  Có                         | 9.57397 | 0.59624 | 29.31133
 --- | --- | --- | --- | --- 
 Có | Không | 9.61365 | 0.59333 | 27.3513
 --- | --- | --- | --- | --- 
