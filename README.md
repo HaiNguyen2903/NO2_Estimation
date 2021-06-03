@@ -12,3 +12,7 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
 Thành viên | #Nguyễn Phúc Hải | #Nguyễn Trường Giang | #Lê Hữu Chung | #Đặng Quốc Khánh | #Phan Quang Hùng
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết 
+
+| Attempt | #Nguyễn Phúc Hải  | #Nguyễn Trường Giang  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
