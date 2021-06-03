@@ -19,7 +19,6 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
     <td> Nguyễn Trường Giang </td>
     <td> Lê Hữu Chung </td>
   </tr>
-  
   <tr>
     <td></td>
     <td>
@@ -27,29 +26,25 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
        Viết báo cáo và làm slide
-    </td> 
-    
+    </td>    
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
        Viết báo cáo và làm slide
     </td> 
-    
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
        Viết báo cáo và làm slide
     </td>
-    
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
        Viết báo cáo và làm slide
     </td>
-    
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
