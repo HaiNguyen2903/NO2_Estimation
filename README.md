@@ -71,3 +71,14 @@ Nếu muốn chạy code trên ở máy cục bộ, ta cần phải tải xuốn
     </td> 
   </tr>
 </table>
+
+# Liên hệ:
+Nguyễn Phúc Hải (me): [Github](https://github.com/HaiNguyen2903)
+
+Nguyễn Trường Giang: [Github](https://github.com/ntg552000)
+
+Lê Hữu Chung: 
+
+Đặng Quốc Khánh: [Github](https://github.com/snowiceheart2000)
+
+Phan Quang Hùng: [Github](https://github.com/phanquanghung)
