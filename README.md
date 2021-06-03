@@ -17,3 +17,11 @@ Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải
 | :---:      | :-:              | :-:                  |
 | Công việc  |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
              |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
+
+<table width="300">
+  <tr>
+    <td> This is some text </td>
+    <td> This is some somewhat longer block of text </td>
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td>
+  </tr>
+</table>
