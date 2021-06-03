@@ -9,28 +9,24 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
 ## Cài đặt
 
 ## Phân chia công việc
-Thành viên | #Nguyễn Phúc Hải | #Nguyễn Trường Giang | #Lê Hữu Chung | #Đặng Quốc Khánh | #Phan Quang Hùng
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết 
 
-| Thành viên | Nguyễn Phúc Hải  | Nguyễn Trường Giang  | Lê Hữu Chung | Đặng Quốc Khánh | Phan Quang Hùng
-| :---:      | :-:              | :-:                  |
-| Công việc  |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
-             |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
-
-<table width="300">
+<table width="350">
   <tr>
     <td> Thành viên </td>
+    <td> Đặng Quốc Khánh </td>
     <td> Nguyễn Phúc Hải </td>
+    <td> Phan Quang Hùng </td>
     <td> Nguyễn Trường Giang </td>
     <td> Lê Hữu Chung </td>
-    <td> Đặng Quốc Khánh </td>
-    <td> Phan Quang Hùng </td>
   </tr>
   
   <tr>
     <td></td>
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td>
+       - Đọc hiểu bài báo <br>
+       - Tìm hiểu phương pháp giải quyết <br>
+       - Thu thập và ghép dữ liệu với bản đồ <br>
+    </td> 
     <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
     <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
     <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
