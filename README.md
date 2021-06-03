@@ -20,8 +20,13 @@ Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải
 
 <table width="300">
   <tr>
-    <td> This is some text </td>
-    <td> This is some somewhat longer block of text </td>
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td>
+    <td> Thành viên </td>
+    <td> Nguyễn Phúc Hải </td>
+    <td> Nguyễn Trường Giang </td>
+  </tr>
+  
+  <tr>
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
   </tr>
 </table>
