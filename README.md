@@ -25,8 +25,8 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide thuyết trình
-       Vẽ bản đồ NO2
+       Viết báo cáo và làm slide thuyết trình <br>
+       Vẽ bản đồ NO2 ở các mùa 
     </td>    
     <td>
        Đọc hiểu bài báo <br>
@@ -48,7 +48,8 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Tìm hiểu phương pháp giải quyết <br>
        Viết báo cáo và làm slide thuyết trình <br>
        Code mô hình Random Forest và Linear Regression <br>
-       Thử nghiệm các mô hình khác nhau
+       Thử nghiệm các mô hình khác nhau <br>
+       Vẽ bản đồ NO2 
     </td>
     <td>
        Đọc hiểu bài báo <br>
