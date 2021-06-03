@@ -21,7 +21,7 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
   </tr>
   <tr>
     <td></td>
-    <td>
+    <td, style='top=0'>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
