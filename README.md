@@ -72,6 +72,14 @@ Nếu muốn chạy code trên ở máy cục bộ, ta cần phải tải xuốn
   </tr>
 </table>
 
+| STT | Thành Viên          | Công Việc                                                                                                                                                                                                            |
+|-----|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Đặng Quốc Khánh     | Đọc hiểu bài báo  <br>Tìm hiểu phương pháp giải quyết  <br>Thu thập và ghép dữ liệu với bản đồ  <br>Viết báo cáo và làm slide thuyết trình  <br>Vẽ bản đồ NO2 ở các mùa                                              |
+| 2   | Nguyễn Phúc Hải     | Đọc hiểu bài báo <br>Tìm hiểu phương pháp giải quyết <br>Viết báo cáo và làm slide thuyết trình <br>Phân tích và xử lý dữ liệu Code mô hình K-means Clustering <br>Tổng hợp dữ liệu và các code thành bản hoàn chỉnh |
+| 3   | Phan Quang Hùng     | Đọc hiểu bài báo <br>Tìm hiểu phương pháp giải quyết <br>Viết báo cáo và làm slide thuyết trình <br>Tìm hiểu và phân tích các đặc trưng trong dữ liệu <br>Tìm hiểu về phương pháp đánh giá mô hình                   |
+| 4   | Nguyễn Trường Giang | Đọc hiểu bài báo <br>Tìm hiểu phương pháp giải quyết <br>Viết báo cáo và làm slide thuyết trình <br>Code mô hình Random Forest và Linear Regression <br>Thử nghiệm các mô hình khác nhau <br> Vẽ bản đồ NO2               |
+| 5   | Lê Hữu Chung        | Đọc hiểu bài báo <br>Tìm hiểu phương pháp giải quyết <br>Viết báo cáo và làm slide thuyết trình <br>Code mô hình Random Forest và Linear Regression <br>Thử nghiệm các mô hình khác nhau                             |                      |
+
 # Liên hệ:
 Nguyễn Phúc Hải (me): [Github](https://github.com/HaiNguyen2903)
 
