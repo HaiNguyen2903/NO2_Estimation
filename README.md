@@ -13,6 +13,7 @@ Thành viên | #Nguyễn Phúc Hải | #Nguyễn Trường Giang | #Lê Hữu Ch
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết 
 
-| Attempt | #Nguyễn Phúc Hải  | #Nguyễn Trường Giang  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| Thành viên | Nguyễn Phúc Hải  | Nguyễn Trường Giang  |
+| :---:      | :-:              | :-:                  |
+| Công việc  |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
+|            |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
