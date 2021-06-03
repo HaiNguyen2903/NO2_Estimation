@@ -23,10 +23,18 @@ Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải
     <td> Thành viên </td>
     <td> Nguyễn Phúc Hải </td>
     <td> Nguyễn Trường Giang </td>
+    <td> Lê Hữu Chung </td>
+    <td> Đặng Quốc Khánh </td>
+    <td> Phan Quang Hùng </td>
   </tr>
   
   <tr>
+    <td></td>
     <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
     <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    
   </tr>
 </table>
