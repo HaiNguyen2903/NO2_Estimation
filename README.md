@@ -13,7 +13,7 @@ Thành viên | #Nguyễn Phúc Hải | #Nguyễn Trường Giang | #Lê Hữu Ch
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Công việc | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết | - Đọc hiểu bài báo và nghiên cứu phương pháp giải quyết 
 
-| Thành viên | Nguyễn Phúc Hải  | Nguyễn Trường Giang  |
+| Thành viên | Nguyễn Phúc Hải  | Nguyễn Trường Giang  | Lê Hữu Chung | Đặng Quốc Khánh | Phan Quang Hùng
 | :---:      | :-:              | :-:                  |
 | Công việc  |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
-|            |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
+             |- Đọc hiểu bài báo |- Đọc hiểu bài báo |
