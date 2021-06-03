@@ -40,7 +40,6 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Viết báo cáo và làm slide thuyết trình <br>
-       Phân tích và xử lý dữ liệu <br>
        Tìm hiểu và phân tích các đặc trưng trong dữ liệu <br>
        Tìm hiểu về phương pháp đánh giá mô hình
     </td>
