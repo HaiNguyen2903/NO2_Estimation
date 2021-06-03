@@ -25,31 +25,39 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide
+       Viết báo cáo và làm slide thuyết trình
+       Vẽ bản đồ NO2
     </td>    
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
-       Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide
+       Viết báo cáo và làm slide thuyết trình <br>
+       Phân tích và xử lý dữ liệu <br>
+       Code mô hình K-means Clustering
+       Tổng hợp dữ liệu và các code thành bản hoàn chỉnh
     </td> 
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
-       Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide
+       Viết báo cáo và làm slide thuyết trình <br>
+       Phân tích và xử lý dữ liệu <br>
+       Tìm hiểu và phân tích các đặc trưng trong dữ liệu <br>
+       Tìm hiểu về phương pháp đánh giá mô hình
+    </td>
+    <td>
+       Đọc hiểu bài báo <br>
+       Tìm hiểu phương pháp giải quyết <br>
+       Viết báo cáo và làm slide thuyết trình <br>
+       Code mô hình Random Forest và Linear Regression <br>
+       Thử nghiệm các mô hình khác nhau
     </td>
     <td>
        Đọc hiểu bài báo <br>
        Tìm hiểu phương pháp giải quyết <br>
        Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide
-    </td>
-    <td>
-       Đọc hiểu bài báo <br>
-       Tìm hiểu phương pháp giải quyết <br>
-       Thu thập và ghép dữ liệu với bản đồ <br>
-       Viết báo cáo và làm slide
+       Viết báo cáo và làm slide thuyết trình
+       Code mô hình Random Forest và Linear Regression <br>
+       Thử nghiệm các mô hình khác nhau
     </td> 
   </tr>
 </table>
