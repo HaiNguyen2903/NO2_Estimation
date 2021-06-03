@@ -26,11 +26,32 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        - Đọc hiểu bài báo <br>
        - Tìm hiểu phương pháp giải quyết <br>
        - Thu thập và ghép dữ liệu với bản đồ <br>
+       - Viết báo cáo và làm slide
     </td> 
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
-    <td> This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer. This is some very long block of text repeated to make it even longer.  </td> 
+    <td>
+       - Đọc hiểu bài báo <br>
+       - Tìm hiểu phương pháp giải quyết <br>
+       - Thu thập và ghép dữ liệu với bản đồ <br>
+       - Viết báo cáo và làm slide
+    </td> 
+    <td>
+       - Đọc hiểu bài báo <br>
+       - Tìm hiểu phương pháp giải quyết <br>
+       - Thu thập và ghép dữ liệu với bản đồ <br>
+       - Viết báo cáo và làm slide
+    </td> 
+    <td>
+       - Đọc hiểu bài báo <br>
+       - Tìm hiểu phương pháp giải quyết <br>
+       - Thu thập và ghép dữ liệu với bản đồ <br>
+       - Viết báo cáo và làm slide
+    </td> 
+    <td>
+       - Đọc hiểu bài báo <br>
+       - Tìm hiểu phương pháp giải quyết <br>
+       - Thu thập và ghép dữ liệu với bản đồ <br>
+       - Viết báo cáo và làm slide
+    </td> 
     
   </tr>
 </table>
