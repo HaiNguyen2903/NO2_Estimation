@@ -52,7 +52,7 @@ Nguyễn Phúc Hải (me): [Github](https://github.com/HaiNguyen2903)
 
 Nguyễn Trường Giang: [Github](https://github.com/ntg552000)
 
-Lê Hữu Chung: 
+Lê Hữu Chung: [Github](https://github.com/chungle1504)
 
 Đặng Quốc Khánh: [Github](https://github.com/snowiceheart2000)
 
