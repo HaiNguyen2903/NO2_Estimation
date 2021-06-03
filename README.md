@@ -33,7 +33,7 @@ Dữ liệu bao gồm toàn bộ dữ liệu gốc cũng như dữ liệu đã �
        Tìm hiểu phương pháp giải quyết <br>
        Viết báo cáo và làm slide thuyết trình <br>
        Phân tích và xử lý dữ liệu <br>
-       Code mô hình K-means Clustering
+       Code mô hình K-means Clustering <br>
        Tổng hợp dữ liệu và các code thành bản hoàn chỉnh
     </td> 
     <td>
