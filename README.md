@@ -28,7 +28,6 @@ Scale | Thêm trường dữ liệu cluster | Đầy đủ trường dữ liệu
 Có | Có | Có | 8.31697 | 0.69496 | 34.4575
 Có | Có | Không |9.57397 | 0.59624 | 29.31133
 Có | Không | Không | 9.61365 | 0.59333 | 27.3513
-Không| Có | Không | --- | --- | ---
 Không | Không | Không | 9.61902 | 0.5923| 29.22658
 
 ## Cài đặt
