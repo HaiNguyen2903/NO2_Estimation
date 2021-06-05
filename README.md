@@ -23,12 +23,13 @@ Mô hình Linear Regression qua thử nghiệm thể hiện khá kém, do còn �
 ## Kết quả 
 Các mô hình đã được thử nghiệm huấn luyện trên 2 bộ dữ liệu đã scale và chưa scale, kết hợp với việc dùng thêm trường dữ liệu **cluster** sau khi áp dụng K-means và không dùng trường dữ liệu **cluster**. Kết quả cho thấy mô hình thể hiện tốt nhất khi huấn luyện trên bộ dữ liệu có trường dữ liệu cluster và đã được scale. Mô hình huấn luyện trên bộ dữ liệu không có trường cluster và không được scale thể hiện không tốt bằng, tuy nhiên sự chênh lệch là không đáng kể. 
 
-Scale | Thêm trường dữ liệu cluster | RMSE | R2 | MAPE
---- | --- | --- | --- |--- 
-Có | Có | 9.57397 | 0.59624 | 29.31133
-Có | Không | 9.61365 | 0.59333 | 27.3513
-Không| Có | --- | --- | ---
-Không | Không | 9.61902 | 0.5923| 29.22658
+Scale | Thêm trường dữ liệu cluster | Đầy đủ trường dữ liệu | RMSE | R2 | MAPE
+--- | --- | --- | --- |--- | ---
+Có | Có | Có | 8.31697 | 0.69496 | 34.4575
+Có | Có | Không |9.57397 | 0.59624 | 29.31133
+Có | Không | Không | 9.61365 | 0.59333 | 27.3513
+Không| Có | Không | --- | --- | ---
+Không | Không | Không | 9.61902 | 0.5923| 29.22658
 
 ## Cài đặt
 Môi trường khuyến nghị sử dụng: [Google Colab](https://colab.research.google.com/notebooks/). Đây là môi trường làm việc của Google cho phép ta tận dụng CPU và GPU online mà không cần yêu cầu quá cao về phần cứng của cá nhân. Đồng thời dữ liệu cũng sẽ được lấy từ Google Drive để thuật tiện cho việc sử dụng. 
